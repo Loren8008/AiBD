@@ -1,0 +1,7 @@
+Original column names from ../OriginalData/wielkopolskie.csv:
+    • "Unnamed: 0",
+    • "Dni od zakupu",
+    • "Wiek kupującego",
+    • "Płeć kupującego",
+    • "Ocena":,
+    • "Marka".
